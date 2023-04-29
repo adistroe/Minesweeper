@@ -1,6 +1,6 @@
 ### About
 This is the ***Minesweeper*** project I made myself while studying at [JetBrains Academy](https://hyperskill.org)
-<p>In this project, you will create your own, safe "Minesweeper" – a game that will be a brain teaser for both you and your players.</p>
+<p>In this project, you will create your own Minesweeper game.</p>
 This project is a part of the following tracks:
 <ul>
   <li><a href="https://hyperskill.org/tracks/18">Kotlin Core</a></li>
